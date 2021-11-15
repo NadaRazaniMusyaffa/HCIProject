@@ -6,10 +6,10 @@
  
  Website ini dibuat oleh Kelompok yang beranggotakan:
  
- 1. Aditya Soedira
- 2. Muhammad Alif Budiman
- 3. Ahmad Reyhan
- 4. Nada Razani Musyaffa
+ 1. Aditya Soedira 1313620017
+ 2. Muhammad Alif Budiman 1313620018
+ 3. Ahmad Reyhan 1313620016
+ 4. Nada Razani Musyaffa 1313620042
 
  Ilmu Komputer UNJ Angkatan 2020
 

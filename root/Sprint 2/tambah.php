@@ -8,6 +8,39 @@
   	<script src="https://kit.fontawesome.com/9b8f939fef.js" crossorigin="anonymous"></script>
   	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   	<link rel="stylesheet" type="text/css" href="style.css">
+
+
+    <?php
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $dbname = "tes";
+
+    $conn = mysqli_connect($servername, $username, $password, $dbname);
+    if (!$conn) {
+        die("Connection failed: " . mysqli_connect_error());
+    }
+
+
+    if (isset($_POST["submit"])) {
+	    $gambar = $_POST["gambar"];
+	    $nama = $_POST["nama"];
+	    $harga = $_POST["harga"];
+	    $stok = $_POST["stok"];
+	    $sql = "INSERT INTO kategori(gambar, nama, harga, stok)
+	    VALUES ('$gambar', '$nama', '$harga', '$stok')";
+	    
+	    if (mysqli_query($conn, $sql)) {
+	    	echo "New record created successfully";
+	    } 
+		
+		else {
+	        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+	   	}   
+    }
+    //mysqli_close($conn);
+    ?>
+
 </head>
 <body>
 
@@ -25,7 +58,7 @@
 		</div>
 		<div class="row">
 			<div class="col table-responsive mt-4">
-				<form>
+				<form method="post" action="">
 					<table class="table table-bordered border-dark mt-2 text-center" >
 						<tr class="table-dark">
 							<th>Gambar</th>
@@ -48,11 +81,10 @@
 								<input type="text" name="stok" id="stok" style="height: 30px;">
 							</td>
 							<td>
-								<button type="submit" name="submit" class="btn btn-dark">
-									<a href="category.php" class="text-white text-decoration-none">Tambah</a>
+								<button type="submit" name="submit" class="btn btn-dark">Tambah
 								</button>
 								<button type="button" class="btn btn-dark">
-									<a href="category.php" class="text-white text-decoration-none">Kembali</a>
+									<a href="category.html" class="text-white text-decoration-none">Kembali</a>
 								</button>
 							</td>
 						</tr>

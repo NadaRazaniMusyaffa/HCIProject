@@ -10,7 +10,5 @@
  2. Muhammad Alif Budiman 1313620018
  3. Ahmad Reyhan 1313620016
  4. Nada Razani Musyaffa 1313620042
-
- Ilmu Komputer UNJ Angkatan 2020
  
  Sejauh ini, kami sudah menyelesaikan semua kode (baik itu frontend maupun backend) terkait dengan fitur-fitur yang klien inginkan. Namun, kami masih belum mencobanya di livehosting

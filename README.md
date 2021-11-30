@@ -11,4 +11,4 @@
  3. Ahmad Reyhan 1313620016
  4. Nada Razani Musyaffa 1313620042
  
- Sejauh ini, kami sudah menyelesaikan semua kode (baik itu frontend maupun backend) terkait dengan fitur-fitur yang klien inginkan. Namun, kami masih belum mencobanya di livehosting
+ Sejauh ini, kami sudah menyelesaikan semua kode (baik itu frontend maupun backend) terkait dengan fitur-fitur yang klien inginkan. Namun, kami masih belum mencobanya di livehosting.

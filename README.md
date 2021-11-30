@@ -12,4 +12,5 @@
  4. Nada Razani Musyaffa 1313620042
 
  Ilmu Komputer UNJ Angkatan 2020
-
+ 
+ Sejauh ini, kami sudah menyelesaikan semua kode (baik itu frontend maupun backend) terkait dengan fitur-fitur yang klien inginkan. Namun, kami masih belum mencobanya di livehosting

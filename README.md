@@ -20,6 +20,7 @@
  
  Kontribusi anggota kami:
  Ahmad Reyhan: Backend dari fitur tampilkan barang, dan notifikasi barang kosong; Membuat mockup website; Membuat Letter of Colaboration.
+ 
  Aditya Soedira: Backend dari fitur search, dan tambah barang; Membuat dokumen List of Features, serta dokumen Site Identity.
  Nada Razani Musyaffa: Backend dari fitur Hapus Barang; Membuat mockup website.
  Muhammad Alif: Backend dari fitur edit dan sorting barang, membuat bagian Frontend; membuat mockup website (Diterima oleh klien); Membuat live-hosting website.

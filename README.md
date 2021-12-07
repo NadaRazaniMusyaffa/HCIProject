@@ -11,14 +11,14 @@
  3. Ahmad Reyhan 1313620016
  4. Nada Razani Musyaffa 1313620042
  
- Primary Features:
+ Primary Features dari website kami:
  1. Kategori barang
  2. CRUD produk
  3. Search bar
  4. Notifikasi barang kosong
  5. Sorting
  
- Members Contribution:
+ Kontribusi anggota kami:
  Ahmad Reyhan: Backend dari fitur tampilkan barang, dan notifikasi barang kosong; Membuat mockup website; Membuat Letter of Colaboration.
  Aditya Soedira: Backend dari fitur search, dan tambah barang; Membuat dokumen List of Features, serta dokumen Site Identity.
  Nada Razani Musyaffa: Backend dari fitur Hapus Barang; Membuat mockup website.

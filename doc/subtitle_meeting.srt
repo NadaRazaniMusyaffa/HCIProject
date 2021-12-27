@@ -1,0 +1,713 @@
+1
+00:00:00,000 --> 00:00:02,000
+Kita langsung aja ya. Nada Tolong rekam ya, nad.
+
+2
+00:00:02,500 --> 00:00:03,400
+Udah.
+
+3
+00:00:04,500 --> 00:00:08,500
+Oke. Assalamualaikum wr. wb. Selamat sore kak.
+
+4
+00:00:09,100 --> 00:00:10,600
+Sore.
+
+5
+00:00:11,000 --> 00:00:30,300
+Jadi untuk meet kali ini, ini juga sekaligus jadi meet terakhir kita kak. jadi untuk meet kali ini kita itu akan melakukan user testing. Jadi User Testing secara singkat itu kayak kakak sebagai user akan melakukan suatu pengujian terhadap website kami
+
+6
+00:00:31,000 --> 00:00:49,400
+Nah tujuannya itu pertama itu untuk kita tau website kita itu berkerja sebagai mana mestinya atau ga, dan untuk tau user experience kakak gimana. Jadi diakhirnya akan kami sangat nantikan nih tanggapan kakakkritik serta saran kakak terhadap website kami
+
+7
+00:00:49,700 --> 00:00:50,700
+Boleh boleh
+
+8
+00:00:51,500 --> 00:01:06,700
+Lalu, untuk durasi user testingnya dosennya minta kurang lebih 30 menit kak. Tapi kita tau itu kayaknya ga mungkin deh jadi kalau misal kakak rasa udah cukup ya gapapa deh. Jadi kita selesaikan saja
+
+9
+00:01:07,200 --> 00:01:07,700
+Oke
+
+10
+00:01:08,000 --> 00:01:15,400
+Trus meeting kami kali ini juga akan direcord dan diupload ke youtube seperti yang dosen kami minta.
+
+11
+00:01:16,100 --> 00:01:27,400
+Tapi kita usahain video ini cuma akan ditonton sama dosen aja. Nah untuk linknya saya send disini deh. Sebentar kak
+
+12
+00:01:31,000 --> 00:01:38,400
+Sudah saya send di chat kak. Mohon untuk dibuka terus kakak sekalian share screen. Terimakasih Kak
+
+13
+00:01:39,000 --> 00:01:40,000
+Oke.
+
+14
+00:01:47,500 --> 00:01:49,400
+Sudah kelihatan belum ya?
+
+15
+00:01:51,000 --> 00:01:51,900
+Sudah kak.
+
+16
+00:01:52,500 --> 00:01:53,400
+udah yaa
+
+17
+00:01:58,500 --> 00:01:59,800
+Mulai, sebentar, oke
+
+18
+00:02:00,500 --> 00:02:06,560
+Jadi didsini ceritanya ada 3 kategori ya? Eh, ada 5. Oke...
+
+19
+00:02:09,941 --> 00:02:22,175
+Pertama ini udah bagus sih. Dari tampilan luaranya jelas. maksudnya dari kategori jelas. Ada pakaian, sepatu, tas, aksesoris, sport.
+
+20
+00:02:22,200 --> 00:02:29,447
+Udah bagus ini kalau dari front-endnya ya, bagus. Ini logo maksudnya apa ya?
+
+21
+00:02:29,571 --> 00:02:37,457
+Oh itu sebenernya mau kita kasih logo gambar kita tapi ga ada jadi masih kayak gitu
+
+22
+00:02:37,550 --> 00:02:46,088
+Oooh iya. bisa sih, feedback ya, bisa sih ini nanti dikasih logo terus nanti disini misalnya perusahaannya namanya apa gitu
+
+23
+00:02:46,125 --> 00:02:50,946
+Oke tapi overall ini udah bagus banget. udah ada gambar gambarnya
+
+24
+00:02:52,680 --> 00:02:59,625
+Simple juga, ga berat ininya, apa, tampilannya ga berat. Oke, Ini apa nih? Ceritanya?
+
+25
+00:03:00,495 --> 00:03:05,206
+Notifikasi barang kosong kak, Barang yang abis
+
+26
+00:03:05,231 --> 00:03:09,098
+Ooooohhh oke. Bisa Bisa.
+
+27
+00:03:15,257 --> 00:03:22,541
+Bagus, Bagus banget ini. Ada harganya, Stoknya. Oke ceritanya mau dihapus ya.
+
+28
+00:03:28,069 --> 00:03:36,777
+Nah, Hapus ceritanya. Nahh oke, gampang sih. Gampang ngapusnya. Coba aku tambah ya
+
+29
+00:03:38,495 --> 00:03:40,050
+Keren juga ini.
+
+30
+00:03:41,477 --> 00:03:42,617
+Ceritanya aku mau nambah oli.
+
+31
+00:03:57,766 --> 00:04:13,161
+Oke bisa. berhasi ditambah, ga ada masalah. Berarti buat yang ini buat fitu yang nambahin inventory udah oke banget
+terus udah ada gambarnya, namanya. Terus harganya, stoknya.
+
+32
+00:04:13,413 --> 00:04:14,639
+Bagus, Bagus. Coba kita edit
+
+33
+00:04:23,930 --> 00:04:28,024
+Oke bagus bagus bisa dihapus bisa.
+
+34
+00:04:28,796 --> 00:04:29,804
+Oke, Coba ya.
+
+35
+00:04:46,726 --> 00:04:54,856
+Oooh oke jadi ceritanya ini kalau misalnya stoknya kurang dari berapa nih? Kalau ada notifnya?
+
+36
+00:04:59,555 --> 00:05:04,330
+Untuk bagian notif sendiri itu stoknya yang kurang dari 10, kak.
+
+37
+00:05:04,773 --> 00:05:07,290
+Oooh oke iya sih bener kayaknya. oke bagus bagus
+
+38
+00:05:09,194 --> 00:05:17,646
+Oh iya kak, untuk sorting itu bisa di klik bisa mau sorting nama di klik nama, mau sorting harga klik harga, sorting stok klik stok
+
+39
+00:05:17,833 --> 00:05:22,310
+Ooooh oke, iya iya iya bagus bagus bagus
+
+40
+00:05:23,289 --> 00:05:30,421
+Cuma mungkin disebelahnya itu dikasih kayak tanda panah kali ya? Jadi kita tau kalau, oooh itu bisa di sorting.
+
+41
+00:05:32,164 --> 00:05:39,763
+feedback ku itu aja sih soalnya kalau dari kayak gini ga keliatan gitu, bisa disorting atau ga tapi ternyata bisa. bagus bagus
+
+42
+00:06:14,508 --> 00:06:25,919
+udah udah oke sih ini ada maksimalnya ga, kita bisa nambahin berapa? kayak misalnya satu kategori ada maksimalnya ga?
+maksimal barangnya ada berapa?
+
+43
+00:06:28,742 --> 00:06:30,232
+ga ada maksimalnya sih.
+
+44
+00:06:30,563 --> 00:06:32,859
+ooh jadi bisa nambahin berapa aja ya
+
+45
+00:06:33,343 --> 00:06:34,359
+iya bisa nambahin berapa aja.
+
+46
+00:06:34,617 --> 00:06:35,820
+mm bagus bagus. bagus kayak gitu.
+
+47
+00:06:49,492 --> 00:06:52,500
+itu mungkin mau dicoba fitu searchnya kak?
+
+48
+00:06:52,719 --> 00:06:53,891
+Oh iya bener.
+
+49
+00:06:57,133 --> 00:06:59,092
+Search coba, yamalube.
+
+50
+00:07:01,430 --> 00:07:02,438
+oke
+
+51
+00:07:03,688 --> 00:07:04,695
+bagus bagus
+
+52
+00:07:20,984 --> 00:07:26,458
+oke, searchnya bagus. ini juga ada home disini jadi kayak..
+
+53
+00:07:36,805 --> 00:07:40,441
+Ada fitur lain ga yang belum aku coba?
+
+54
+00:07:46,828 --> 00:07:49,205
+saya rasa sudah semua sih kak.
+
+55
+00:07:51,664 --> 00:07:52,672
+oke
+
+56
+00:07:53,055 --> 00:07:54,063
+udah, udah semua ya
+
+57
+00:07:56,328 --> 00:08:03,554
+menurut aku, aku langsung feedback ya, feedback tentang websitenya.
+
+58
+00:08:04,609 --> 00:08:11,141
+Overall, ini udah bagus banget, udah keren banget, udah mirip mirip sama website professional lah.
+
+59
+00:08:11,547 --> 00:08:22,411
+Paling kayak, dipoles aja ini udah bagus banget misalnya logonya diganti nama beneran nama perusahaan beneran terus dikasih logo beneran.
+
+60
+00:08:22,500 --> 00:08:30,732
+Terus, ya terus misalnya ini diganti sama... sama picshot beneran. Ini udah keren banget sih
+
+61
+00:08:31,108 --> 00:08:43,669
+Tapi kan ini emang baru ini ya, kayak gambaran kasarnya, jadi kayak masih... misal ini masih ada copyrightnya ya itu gapapa banget tapi secara overall ini udah oke
+
+62
+00:08:43,795 --> 00:08:52,959
+Gampang. Websitenya ga berat. Ini juga gampang. kayak nyarinya gampang. Aksesoris 1, 2, 3.
+
+63
+00:08:52,984 --> 00:09:03,302
+Terus ini tuh ada ininya ga? kayak misalnya kayak berapa per, berapa yang ditampilin per page? Ngerti ga?
+
+64
+00:09:04,102 --> 00:09:15,255
+Misalnya 20 nih, ada 200 item, ini semuanya bakalan ditampilin disini apa dia bakalan dibagi ke berapa kategori?
+
+65
+00:09:18,688 --> 00:09:21,121
+Oooh maksudnya kayak ada next pagenya?
+
+66
+00:09:21,146 --> 00:09:30,630
+iyaa iyaa bener. Ini ada next pagenya atau 1 kayak gini doang? Kayak misalnya ini ya, ada 200 number.
+
+67
+00:09:36,766 --> 00:09:42,523
+Kalau untuk website kita ini, di page ini aja ya. Ga ada next pagenya kayak gitu kak.
+
+68
+00:09:42,742 --> 00:09:56,965
+Oooh oke oke. iya ya mungkin kalau misal nanti udah jalan nih udah running, terus itemnya itu udah ribuan itu mungkin bisa dibikin kayak per page cuma 20, 100. bisa diatur juga.
+
+69
+00:09:57,328 --> 00:10:07,482
+Kayak ini aja, kayak di tokopedia atau di marketplace place terus pasti kalian seringlah buka   ada next page next page. kayak gitu sih bagusnya.
+
+70
+00:10:07,669 --> 00:10:14,740
+tapi ini udah oke banget karena ini juga yang dicoba masih kurang dari 10 kan. Jadi udah oke.
+
+71
+00:10:14,825 --> 00:10:24,265
+Terus, tabelnya ini udah lengkap banget. Ada gambarnya, ada namanya, ada harga, stok sama option.
+
+72
+00:10:24,523 --> 00:10:27,273
+Ini udah memudahkan banget.
+
+73
+00:10:28,477 --> 00:10:40,615
+Nah, mungkin bisa nih kalian coba gimana caranya tabel ini, kan ini tabel dari website ya. tabel ini bisa diexport ke excel.
+
+74
+00:10:40,992 --> 00:10:53,529
+Nah jadi itu mungkin bisa jadi buat challenge kalian, karena aku juga sering make  kayak, website kayak gini yang ada tabel tabelnya, nah itu bisa diexport ke excel.
+
+75
+00:10:53,711 --> 00:10:58,859
+Kira-kira kalian kalau kayak gitu udah bisa belum ya? Tapi ini buat itu aja sih, feedback
+
+76
+00:11:04,288 --> 00:11:09,146
+Udah ya, terus optionnya juga udah bagus. di edit editnya gampang.
+
+77
+00:11:14,133 --> 00:11:23,607
+iya gampang. juga bisa di bagian nama juga bisa pakai simbol ya. diliat tadi. bisa pake simbol pake angka, udah oke banget
+
+78
+00:11:28,352 --> 00:11:35,836
+Harganya juga udah sih, udah oke ini. Rp80 ribu.
+
+79
+00:11:39,266 --> 00:11:48,786
+Sebenernya ini penulisannya salah sih. jadi kalau habis setelah Rp itu harus langsung angka. Tapi itu gapapa lah. intinya website ok.
+
+80
+00:11:48,921 --> 00:11:51,052
+Ini ga bboleh ada spasi disini.
+
+81
+00:11:52,773 --> 00:12:01,771
+Terus, nextnya ini bagian notifikasinya bagus, bagus banget. ada list. ada list listnya ya.
+
+82
+00:12:02,141 --> 00:12:12,193
+Tapi feedback dari aku, better kalau misalnya ada tulisan kayak "sepatu 4" sisanya tinggal berapa gitu.
+
+83
+00:12:13,991 --> 00:12:26,513
+Kayak ada berapa nih sisanya. Kayak notifnya kayak gitu. Kayak sepat 4, sisanya tinggal 4. Silahkan review stok atau silahkan...
+
+84
+00:12:26,890 --> 00:12:31,898
+Silahkan apa ya... isi stoknya lagi kayak gitu.
+
+85
+00:12:32,852 --> 00:12:39,561
+Jadi better kalau disini tuh keliatan, ini stoknya tuh ada berapa sih. Tapi ini udah oke sih.
+
+86
+00:12:40,070 --> 00:12:46,406
+Kalau misalnya orang orang tau ya kalau ini disini itu yang kurang dari 10 gitu.
+
+87
+00:12:48,914 --> 00:13:01,677
+udah terus kalau dari desain, desainnya bagus. minimalis banget. seperti request aku ya yang awal. minimalis gitu oke banget.
+
+88
+00:13:03,125 --> 00:13:12,810
+Terus, ini. coba misalnya kalau misalnya nanti ya, nanti misalnya kategori udah banyak. mungkin bisa kayak ini tuh dikecilin gitu.
+
+89
+00:13:14,546 --> 00:13:24,411
+Misalnya, jadi tuh muat banyak. misalnya pakaian, sepatu, sebelahnya lagi aksesoris itu jadi muat banyak gitu di satu baris.
+
+90
+00:13:24,913 --> 00:13:30,208
+Tapi karena kita masih dikit, kategorinya no problem. udah oke banget.
+
+91
+00:13:32,563 --> 00:13:33,570
+Apa lagi ya..
+
+92
+00:13:34,938 --> 00:13:36,801
+Searchnya juga gampang
+
+93
+00:13:39,218 --> 00:13:40,835
+kalau misalnya..
+
+94
+00:13:43,781 --> 00:13:44,867
+kalau misalnya minuman
+
+95
+00:13:49,083 --> 00:13:56,458
+nah oke. ini bagus. ini juga kalau ga ditemukan keluarnya... oke. Tapi ini...
+
+96
+00:13:56,914 --> 00:14:01,848
+mungkin disini di barang tidak ditemukan bisa dikasih logo homenya.
+
+97
+00:14:03,859 --> 00:14:08,927
+Karena ini ya bingung mau balik ke homenya itu kayak gimana. Tapi oke.
+
+98
+00:14:10,083 --> 00:14:15,927
+Nah kayak gini enak nih, home. ya mungkin kalau misalnya ga ketemu pencariannya bisa ditambahin homenya.
+
+99
+00:14:26,136 --> 00:14:38,357
+Apalagi ya... sama paling yang tadi sih kayak sort. nih, kan bisa dibikin sort by. bisa dibikin tanda panah disini jadi orang tuh tau kalau ternyata itu bisa disort.
+
+100
+00:14:38,382 --> 00:14:50,639
+Karena itu berguna banget sih fitur ini. Padahal aku ga minta buat ada sortnya tapi kalian bikin sendiri ini apresiasi banget sih.
+
+101
+00:14:50,873 --> 00:14:54,748
+Maaf kak, kakaknya awalnya minta ada fitur sort.
+
+102
+00:14:55,404 --> 00:14:59,203
+Oh iya iya lupa
+
+103
+00:14:59,251 --> 00:15:05,622
+Mungkin, bagus sih, sort. nextnya mungkin bisa dibikin filter juga boleh.
+
+104
+00:15:06,747 --> 00:15:07,677
+Keren, keren.
+
+105
+00:15:09,196 --> 00:15:16,457
+Iya sih ini karena aku mintanya gini doang jadi ya ini emang cuma gini doang kan dan bagus banget.
+
+106
+00:15:16,735 --> 00:15:28,375
+aku kira bakalan susah tapi ternyata kalian keren banget jadi mungkin nextnya kalau kalian bikin proyek, ya kalau kayak begini udah bisa apalagi yang lain lah.
+
+107
+00:15:28,490 --> 00:15:31,482
+Maksudnya udah bisa improve banget ya disini.
+
+108
+00:15:33,912 --> 00:15:37,468
+Ada lagi ga? fitur-fitur lainnya? udah ya?
+
+109
+00:15:37,899 --> 00:15:46,497
+Oh iya, itu bisa di klik tuh kak, di notifikasi, dinotifikasi ya itu bisa di klik. coba klik sepatu 5.
+
+110
+00:15:49,099 --> 00:15:50,006
+oke.
+
+111
+00:15:50,664 --> 00:15:57,811
+oke bagus bagus ini. bener bener. bagus bagus
+
+112
+00:15:58,469 --> 00:16:05,274
+Nah ini yang kayak aku bilang tadi nih, ini ga ada homenya jadi kayak, mau balik, gimana?
+
+113
+00:16:05,922 --> 00:16:14,707
+bagusnya logonya dikasih link, jadi kalau kita pencet logo dia langsung balik ke home.
+
+114
+00:16:14,907 --> 00:16:17,700
+Tapi overall ini udah bagus banget kan disini juga ada home kan.
+
+115
+00:16:23,289 --> 00:16:31,888
+Berarti ini notifikasinya bakal ilang kalau kita, ini ya, nambahin stok jadi lebih dari 10.
+
+116
+00:16:33,068 --> 00:16:34,842
+oke jadi langsung tinggal 7.
+
+117
+00:16:37,477 --> 00:16:38,453
+bagus banget sih
+
+118
+00:16:52,874 --> 00:17:01,099
+Dari aku kayaknya udah sih. udah kan nih? Websitenya. ini udah bagus banget bisa diedit bisa dihapus.
+
+119
+00:17:11,867 --> 00:17:12,875
+kembali
+
+120
+00:17:17,063 --> 00:17:24,108
+udah, dari aku kayanya udah oke sih semuanya. no complain cuma beberapa feedback aja tadi.
+
+121
+00:17:27,172 --> 00:17:28,180
+ada lagi ga?
+
+122
+00:17:29,880 --> 00:17:39,467
+Saya rasa itu, itu saja deh kak untuk fitu fitur sudah kakak coba semua dan secara keseluruhan website kami sudah kakak coba semua.
+
+123
+00:17:39,508 --> 00:17:48,787
+jadi saya rasa sudah cukup ya. Jadi makasih banyak ya kak untuk feedbacknya, untuk kritisnya, kritiknya dan sebagainya.
+
+124
+00:17:49,313 --> 00:18:01,427
+dan juga terimakasih banyak nih kak udah mau jadi klien kami. sudah mau jadi klien yang kooperatif gitu, yang tidak terlalu, susah dihubingi dan sebagainya.
+
+125
+00:18:02,821 --> 00:18:03,829
+
+
+126
+00:18:04,532 --> 00:18:05,540
+
+
+127
+00:18:06,313 --> 00:18:08,360
+
+
+128
+00:18:08,735 --> 00:18:09,743
+
+
+129
+00:18:10,063 --> 00:18:11,961
+
+
+130
+00:18:11,993 --> 00:18:13,001
+
+
+131
+00:18:13,040 --> 00:18:14,047
+
+
+132
+00:18:16,383 --> 00:18:17,391
+
+
+133
+00:18:17,813 --> 00:18:19,133
+
+
+134
+00:18:19,172 --> 00:18:20,180
+
+
+135
+00:18:20,266 --> 00:18:21,860
+
+
+136
+00:18:22,016 --> 00:18:23,024
+
+
+137
+00:18:23,071 --> 00:18:24,368
+
+
+138
+00:18:24,415 --> 00:18:26,235
+
+
+139
+00:18:26,383 --> 00:18:27,461
+
+
+140
+00:18:28,008 --> 00:18:29,688
+
+
+141
+00:18:29,719 --> 00:18:30,852
+
+
+142
+00:18:30,946 --> 00:18:31,954
+
+
+143
+00:18:32,751 --> 00:18:33,758
+
+
+144
+00:18:34,352 --> 00:18:35,360
+
+
+145
+00:18:35,391 --> 00:18:36,399
+
+
+146
+00:18:42,243 --> 00:18:43,251
+
+
+147
+00:18:43,524 --> 00:18:44,586
+
+
+148
+00:18:45,297 --> 00:18:46,305
+
+
+149
+00:18:46,579 --> 00:18:47,586
+
+
+150
+00:18:47,680 --> 00:18:49,446
+
+
+151
+00:18:49,477 --> 00:18:50,485
+
+
+152
+00:18:51,532 --> 00:18:53,063
+
+
+153
+00:18:53,297 --> 00:18:54,305
+
+
+154
+00:18:54,360 --> 00:18:56,524
+
+
+155
+00:18:57,235 --> 00:18:58,422
+
+
+156
+00:18:59,516 --> 00:19:00,782
+
+
+157
+00:19:00,813 --> 00:19:02,680
+
+
+158
+00:19:03,649 --> 00:19:04,657
+
+
+159
+00:19:06,571 --> 00:19:07,790
+
+
+160
+00:19:07,977 --> 00:19:09,040
+
+
+161
+00:19:09,110 --> 00:19:10,118
+
+
+162
+00:19:10,352 --> 00:19:11,360
+
+
+163
+00:19:12,188 --> 00:19:13,336
+
+
+164
+00:19:13,368 --> 00:19:14,376
+
+
+165
+00:19:14,915 --> 00:19:16,282
+
+
+166
+00:19:16,344 --> 00:19:17,563
+
+
+167
+00:19:17,618 --> 00:19:18,626
+
+
+168
+00:19:19,180 --> 00:19:20,508
+
+
+169
+00:19:23,415 --> 00:19:24,422
+
+
+170
+00:19:25,469 --> 00:19:27,579
+
+
+171
+00:19:27,688 --> 00:19:29,454
+
+
+172
+00:19:29,493 --> 00:19:30,899
+
+
+173
+00:19:31,852 --> 00:19:32,860
+
+
+174
+00:19:33,422 --> 00:19:34,836
+
+
+175
+00:19:35,508 --> 00:19:36,516
+
+
+176
+00:19:40,735 --> 00:19:41,743
+
+
+177
+00:19:41,899 --> 00:19:42,907
+
+
+178
+00:19:43,422 --> 00:19:44,430
+

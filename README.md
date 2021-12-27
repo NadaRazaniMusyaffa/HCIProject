@@ -21,3 +21,5 @@
 
 
 User Manual: https://github.com/NadaRazaniMusyaffa/HCIProject/blob/6524d70b51a7488dcbaf7d36f9eff300ea2bbe5c/doc/spec/Stock%20Data%20User%20Manual.pdf
+
+App Demo : https://youtube.com/playlist?list=PL4C11LBGjPw-j_CCohFMjMCudMsx4wbge

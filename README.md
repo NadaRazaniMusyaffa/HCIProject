@@ -1,7 +1,7 @@
 # Stock Data
 
- Stock Data merupakan website bertipe Inventory Control yang berfungsi untuk mengelola stok barang, di mana website ini akan bermanfaat bagi seorang Store Operation seperti klien  kami.  
- Klien kami, Annisa Mufidah, bekerja sebagai store operation di mana ia bertugas untuk memastikan bahwa barang-barang seperti Unilever, Oreal, dan sebagainya bisa terlihat di marketplace seperti Shopee, Tokopedia, dan sebagainya.
+ Stock Data merupakan website bertipe Inventory Control yang berfungsi untuk mengelola stok barang, di mana website ini akan bermanfaat bagi seorang Store Operation seperti klien  kami. Klien kami, Annisa Mufidah, bekerja sebagai store operation di mana ia bertugas untuk memastikan bahwa barang-barang seperti Unilever, Oreal, dan sebagainya bisa terlihat di marketplace seperti Shopee, Tokopedia, dan sebagainya.
+
  Berikut adalah URL dari website kami:
  http://stockdata.great-site.net/
  
